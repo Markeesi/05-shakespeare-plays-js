@@ -30,6 +30,26 @@ td {
 
 /* CSS-Säännöt, jotka lisätään javascriptin avulla */
 
+/* Style for the container with class "rows-side-by-side" */
+.rows-side-by-side {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr; /* Two columns, adjust as needed */
+  gap: 1rem; /* Adjust the gap between columns */
+  align-items: center; /* Vertically center the containers */
+  padding: 1rem;
+  margin 1rem;
+}
+
+.background-color-grey {
+  background-color: #d3d3d3;
+  margin: 0;
+
+}
+
+.remove-bulletpoint {
+  list-style: none;
+}
+
 
 
 
