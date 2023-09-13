@@ -74,24 +74,3 @@ td {
   background-color: #d3d3d3;
   width: 100%;
 }
-
-
-/* Make the table extend to full width */
-
-  
-
-
-
-/* @media screen and (min-width: 426px) {
-  nav ul {
-    display: flex;
-    flex-direction: row;
-    text-align: center;
-    justify-content: center;
-    border-radius: 2%;
-  }
-}
-
-@media screen and (min-width: 769px) {
-
-} */
