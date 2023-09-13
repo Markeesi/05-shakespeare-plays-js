@@ -24,6 +24,4 @@ function myButtonFunction() {
 }
 
 
-
-
 button.addEventListener("click", myButtonFunction);
