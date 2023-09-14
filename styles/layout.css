@@ -74,3 +74,10 @@ td {
   background-color: #d3d3d3;
   width: 100%;
 }
+
+.dotted {
+  font-weight: 700;
+  font-style: italic;
+  color: darkred;
+  text-decoration-style: dotted;
+}
